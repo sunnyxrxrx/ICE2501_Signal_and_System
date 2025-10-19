@@ -1,0 +1,10 @@
+librosa
+numpy
+scipy
+soundfile
+pydub
+matplotlib
+opencv-python
+torch
+torchvision
+pillow
